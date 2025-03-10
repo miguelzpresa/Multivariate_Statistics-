@@ -1,4 +1,4 @@
-# Discovering inventory inisghts throught clustering analytics & traditional dimension reduction techniques 
+Discovering inventory inisghts throught clustering analytics & traditional dimension reduction techniques 
 
 [Car clustering_Final_Project.pdf](https://github.com/miguelzpresa/stats-H/blob/123cc411721517588fa660a8fcb90f079c350cac/cars%20clustering%20(1).pdf)
 [![image](https://github.com/user-attachments/assets/bd4bc339-2266-4c21-8d76-d8bd39dcd68b)
