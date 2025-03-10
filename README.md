@@ -1,3 +1,4 @@
+# Multivariate Statistics repo
 Discovering inventory inisghts throught clustering analytics & traditional dimension reduction techniques 
 
 [Car clustering_Final_Project.pdf](https://github.com/miguelzpresa/stats-H/blob/123cc411721517588fa660a8fcb90f079c350cac/cars%20clustering%20(1).pdf)
